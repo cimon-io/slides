@@ -11,8 +11,8 @@
           0% {fill: transparent;}
           79% {fill: transparent;}
           80% {fill: #FD7C7C;}
-          90% {fill: #FD7C7C;}
-          91% {fill: transparent;}
+          82% {fill: #FD7C7C;}
+          83% {fill: transparent;}
           100% {fill: transparent;}
       }
 
@@ -20,8 +20,8 @@
           0% {fill: transparent;}
           79% {fill: transparent;}
           80% {fill: #98DC56;}
-          90% {fill: #98DC56;}
-          91% {fill: transparent;}
+          82% {fill: #98DC56;}
+          83% {fill: transparent;}
           100% {fill: transparent;}
       }
 
@@ -29,8 +29,8 @@
           0% {fill: transparent;}
           79% {fill: transparent;}
           80% {fill: #BCC3F0;}
-          90% {fill: #BCC3F0;}
-          91% {fill: transparent;}
+          82% {fill: #BCC3F0;}
+          83% {fill: transparent;}
           100% {fill: transparent;}
       }
 
@@ -38,8 +38,8 @@
           0% {fill: transparent;}
           79% {fill: transparent;}
           80% {fill: #66D2D9;}
-          90% {fill: #66D2D9;}
-          91% {fill: transparent;}
+          82% {fill: #66D2D9;}
+          83% {fill: transparent;}
           100% {fill: transparent;}
       }
 
